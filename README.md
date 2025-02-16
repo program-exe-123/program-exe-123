@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheGoosiest
-- 👀 I’m interested in Game devolopment
+- 👀 I’m interested in Game development
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on New games
 - 📫 How to reach me: Discord: thegoosiest
